@@ -1,10 +1,10 @@
 Binary Search
 ==================
 
-In this assignment you will write three searching functions:
-1. linearSearch
-2. binarySearch (non recursive)
-3. binarySearch (recursive)
+In this assignment you will write three searching functions:  
+1. linearSearch   
+2. binarySearch (non recursive)   
+3. binarySearch (recursive)   
 
 Steps to complete the assignment
 --------------------
