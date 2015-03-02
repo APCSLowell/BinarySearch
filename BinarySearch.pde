@@ -66,8 +66,8 @@ public void setup()
     for (int i = 0; i < tests.length; i++)
     {
 
-        if(binarySearch(tests[i]) != -1)
-            System.out.println("Catalog #"+tests[i]+" has "+binarySearch(tests[i]) + " in stock");
+        if(binarySearch(tests[i],0,store.length - 1) != -1)
+            System.out.println("Catalog #"+tests[i]+" has "+binarySearch(tests[i],0,store.length - 1) + " in stock");
         else
             System.out.println("Catalog #"+tests[i]+" not found");
     }
