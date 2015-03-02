@@ -38,14 +38,39 @@ public int binarySearch(int catNumToFind,int nLow, int nHigh)
 public void setup()
 {
     int[] tests = {0,183,184,2370,15320,19967,19968};
+    System.out.println();
+    System.out.println("Testing Linear Search");
+    System.out.println("=====================");
     for (int i = 0; i < tests.length; i++)
     {
+
         if(linearSearch(tests[i]) != -1)
             System.out.println("Catalog #"+tests[i]+" has "+linearSearch(tests[i]) + " in stock");
         else
             System.out.println("Catalog #"+tests[i]+" not found");
     }
+    System.out.println();
+    System.out.println("Testing Non Recursive Binary Search");
+    System.out.println("===================================");
+    for (int i = 0; i < tests.length; i++)
+    {
 
+        if(binarySearch(tests[i]) != -1)
+            System.out.println("Catalog #"+tests[i]+" has "+binarySearch(tests[i]) + " in stock");
+        else
+            System.out.println("Catalog #"+tests[i]+" not found");
+    }
+    System.out.println();
+    System.out.println("Testing Recursive Binary Search");
+    System.out.println("===============================");
+    for (int i = 0; i < tests.length; i++)
+    {
+
+        if(binarySearch(tests[i]) != -1)
+            System.out.println("Catalog #"+tests[i]+" has "+binarySearch(tests[i]) + " in stock");
+        else
+            System.out.println("Catalog #"+tests[i]+" not found");
+    }
 
 }
 
