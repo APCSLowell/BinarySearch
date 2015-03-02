@@ -11,6 +11,7 @@ Steps to complete the assignment
 1. Fork and clone down this repository
 2. Write the three functions
 3. Check your output. You should see the following:   
+   
 Testing Linear Search   
 Catalog #0 not found   
 Catalog #183 not found   
