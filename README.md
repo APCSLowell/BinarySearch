@@ -48,5 +48,6 @@ Catalog #2370 has 65 in stock
 Catalog #15320 has 82 in stock   
 Catalog #19967 has 45 in stock   
 Catalog #19968 not found   
+   
 4. Submit the link to your GitHub repository to the school loop dropbox for the assignment
 
