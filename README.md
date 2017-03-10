@@ -22,14 +22,14 @@ Catalog #15320 has 82 in stock
 Catalog #19967 has 45 in stock   
 Catalog #19968 not found   
 
-Testing Recursive Linear Search
-Catalog #0 not found
-Catalog #183 not found
-Catalog #184 has 14 in stock
-Catalog #2370 has 65 in stock
-Catalog #15320 has 82 in stock
-Catalog #19967 has 45 in stock
-Catalog #19968 not found
+Testing Recursive Linear Search   
+Catalog #0 not found   
+Catalog #183 not found   
+Catalog #184 has 14 in stock   
+Catalog #2370 has 65 in stock   
+Catalog #15320 has 82 in stock   
+Catalog #19967 has 45 in stock   
+Catalog #19968 not found   
 
 Testing Non Recursive Binary Search   
 Catalog #0 not found   
