@@ -3,8 +3,8 @@ Binary Search
 
 In this assignment you will write four searching functions:  
 1. linearSearch  
-2. recursiveLinearSearch
-2. binarySearch   
+2. recursiveLinearSearch   
+3. binarySearch   
 4. recursiveBinarySearch  
 
 Steps to complete the assignment
