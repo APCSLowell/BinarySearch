@@ -20,7 +20,8 @@ public class Item
     public int getInventory(){return myInventory;}
 }
 ```
-Every `Item` has two integers, a catalog number and an inventory. Your functions will search for a catalog number. If the catalog number is found, the function will return the corresponding inventory. If an `Item` with that catalog number is not found, the function should return `-1`.
+Every `Item` has two integers, a catalog number and an inventory. Your functions will search for a catalog number. If the catalog number is found, the function will return the corresponding inventory. If an `Item` with that catalog number is not found, the function should return `-1`.   
+
 Steps to complete the assignment
 --------------------
 1. Fork and clone down this repository
