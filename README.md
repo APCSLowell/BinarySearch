@@ -1,4 +1,4 @@
-Binary Search
+Linear and Binary Searching Functions
 ==================
 
 In this assignment you will write four searching functions:  
