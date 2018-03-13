@@ -5,7 +5,8 @@ In this assignment you will write four searching functions:
 1. linearSearch  
 2. recursiveLinearSearch   
 3. binarySearch   
-4. recursiveBinarySearch  
+4. recursiveBinarySearch    
+
 The functions are searching through an array of type `Item`. The `Item` class is defined as:
 ```Java
 public class Item
