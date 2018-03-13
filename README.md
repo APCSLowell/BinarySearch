@@ -6,7 +6,21 @@ In this assignment you will write four searching functions:
 2. recursiveLinearSearch   
 3. binarySearch   
 4. recursiveBinarySearch  
-
+The functions are searching through an array of type `Item`. The `Item` class is defined as:
+```Java
+public class Item
+{
+    private int myCatNum, myInventory;
+    public Item(int nNum, int nInv)
+    {
+        myCatNum = nNum;
+        myInventory = nInv;
+    }
+    public int getCatNum(){return myCatNum;}
+    public int getInventory(){return myInventory;}
+}
+```
+Every `Item` has two integers, a catalog number and an inventory. Your functions will search for a catalog number. If the catalog number is found, the function will return the corresponding inventory. If an `Item` with that catalog number is not found, the function should return `-1`.
 Steps to complete the assignment
 --------------------
 1. Fork and clone down this repository
