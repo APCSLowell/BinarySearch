@@ -26,7 +26,7 @@ Every `Item` has two integers, a catalog number and an inventory. Your functions
 Steps to complete the assignment
 --------------------
 1. First, complete the [codingbat searching problem set](https://codingbat.com/home/simona1@sfusd.edu/searching)
-1. Fork and clone down this repository (Or fork [this repl.it](https://replit.com/@MrSimonLowell/BinarySearchBase#Sketch.java)
+1. Fork and clone down this repository (Or fork [this repl.it](https://replit.com/@MrSimonLowell/BinarySearchBase#Sketch.java))
 2. Write the four functions
 3. Check your output. You should see the following:    
 ```   
